@@ -15,13 +15,13 @@ This is a command-line based Java application that manages student records using
 ## Screenshots
 
 
-![Add Student](screenshot1.png)
+![Add Student](/Users/sagka/Downloads/ss/screenshot1.png)
 
 
-![View Students](screenshot2.png)
+![View Students](/Users/sagka/Downloads/ss/screenshot1.png)
 
 
-![Delete Student](screenshot3.png)
+![Delete Student](/Users/sagka/Downloads/ss/screenshot1.png)
 
 
 

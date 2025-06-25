@@ -78,7 +78,7 @@ public class StudentManagementSystem {
     }
 
     private static void addStudent() {
-        scanner.nextLine(); // clear buffer
+        scanner.nextLine();
         System.out.print("Enter ID: ");
         String id = scanner.nextLine();
         System.out.print("Enter name: ");
